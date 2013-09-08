@@ -1,0 +1,28 @@
+syntax:glob
+
+# Windows
+*.tmp
+Thumbs.db
+Desktop.ini
+
+
+# VisualStudio
+ipch/
+Visual Micro/
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# AVRStudio
+*.aps
+*.aws
+*.d
+*.eep
+*.elf
+*.lss
+*.map
+*.o
+Makefile
