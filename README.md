@@ -1,4 +1,5 @@
-#What's this?
+#AVR-Sample
+##What's this?
 
 Sample Program for AVR.
 
@@ -7,6 +8,9 @@ Sample Program for AVR.
 * ATmega168
 * ATmega328P
 * etc...
+
+##LISENCE
+This software is released under the MIT License, see LICENSE.md.
 
 ***
 Sample.c

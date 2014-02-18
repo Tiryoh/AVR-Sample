@@ -1,3 +1,11 @@
+/*
+ * sample.c - AVR-Sample
+ * Copyright (c) 2014 Tiryoh <tiryoh@gmail.com>
+ * 
+ * This software is released under the MIT License.
+ * http://opensource.org/licenses/mit-license.php
+ */
+
 #include <avr/io.h>
 int main(void){
     
