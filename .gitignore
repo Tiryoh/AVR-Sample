@@ -5,6 +5,9 @@ syntax:glob
 Thumbs.db
 Desktop.ini
 
+#Mac
+*.xcodeproj
+*.pbxproj
 
 # VisualStudio
 ipch/
