@@ -39,4 +39,5 @@ int main(void){
             PORTB = 0x00 ;   //00000000
         }
     }
+    return 0;
 }
