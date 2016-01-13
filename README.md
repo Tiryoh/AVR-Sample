@@ -9,7 +9,7 @@ Sample Program for AVR.
 * ATmega328P
 * etc...
 
-##LISENCE
+##LICENSE
 This software is released under the MIT License, see LICENSE.md.
 
 ***
